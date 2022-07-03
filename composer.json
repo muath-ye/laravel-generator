@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/laravel-generator",
+    "name": "muath-ye/laravel-generator",
     "type": "library",
     "description": "InfyOm Laravel Generator",
     "keywords": [
@@ -24,9 +24,9 @@
         }
     ],
     "require": {
-        "php": "^8.0",
-        "illuminate/support": "^9.0",
-        "illuminate/console": "^9.0",
+        "php": "^8.0|^8.0",
+        "illuminate/support": "^9.0|^9.19",
+        "illuminate/console": "^9.0|^9.19",
         "laracasts/flash": "^3.2",
         "laravelcollective/html": "^6.3"
     },
